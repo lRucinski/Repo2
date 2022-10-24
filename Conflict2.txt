@@ -1,2 +1,3 @@
 line1-2
 conflict line local 2
+conflict line remote 2
