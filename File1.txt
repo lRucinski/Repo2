@@ -1,2 +1,5 @@
 Oryginal text in file1
 Modyfikowany tekst file1
+Modyfikacja2 tekst file1
+Modyfikacja2 tekst file1
+Modyfikacja2 tekst file1
