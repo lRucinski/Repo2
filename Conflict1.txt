@@ -1,1 +1,2 @@
 line1
+conflict line local 1
