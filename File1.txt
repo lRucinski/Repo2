@@ -1,1 +1,2 @@
 Oryginal text in file1
+Modyfikowany tekst file1
